@@ -15,7 +15,7 @@ type
 
   public
     property idMotivos: Integer read FidMotivo write SetIdMotivo;
-    property Nome: String read FMotivo write SetMotivo;
+    property Motivo: String read FMotivo write SetMotivo;
   end;
 implementation
 

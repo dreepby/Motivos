@@ -12,7 +12,7 @@ type
     Panel2: TPanel;
     BtnSalvar: TBitBtn;
     BtnCancelar: TBitBtn;
-    LabeledEdit1: TLabeledEdit;
+    edtMotivo: TLabeledEdit;
   private
     { Private declarations }
   public

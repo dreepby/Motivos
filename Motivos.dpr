@@ -6,7 +6,11 @@ uses
   uCadMotivos in 'uCadMotivos.pas' {frmCadMotivos},
   uMotivosDto in 'uMotivosDto.pas',
   uMotivosControler in 'uMotivosControler.pas',
-  uMotivosInterfaceModel in 'uMotivosInterfaceModel.pas';
+  uMotivosInterfaceModel in 'uMotivosInterfaceModel.pas',
+  uMotivosRegras in 'uMotivosRegras.pas',
+  uMotivosModel in 'uMotivosModel.pas',
+  uClassConexaoBanco in 'uClassConexaoBanco.pas',
+  uClassSingletonConexao in 'uClassSingletonConexao.pas';
 
 {$R *.res}
 

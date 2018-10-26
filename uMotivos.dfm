@@ -13,6 +13,7 @@ object frmPrincipal: TfrmPrincipal
   FormStyle = fsMDIForm
   OldCreateOrder = False
   Position = poDesktopCenter
+  WindowState = wsMaximized
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
@@ -4665,6 +4666,7 @@ object frmPrincipal: TfrmPrincipal
       Height = 25
       Caption = 'Cadastrar Motivos'
       TabOrder = 0
+      OnClick = btnMotivosClick
     end
     object btnListar: TBitBtn
       Left = 470

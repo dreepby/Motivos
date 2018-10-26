@@ -25,13 +25,9 @@ object frmCadMotivos: TfrmCadMotivos
     Height = 226
     Align = alClient
     TabOrder = 0
-    ExplicitLeft = -80
-    ExplicitTop = -6
-    ExplicitWidth = 626
-    ExplicitHeight = 216
-    object LabeledEdit1: TLabeledEdit
+    object edtMotivo: TLabeledEdit
       Left = 72
-      Top = 93
+      Top = 98
       Width = 505
       Height = 27
       EditLabel.Width = 47
@@ -59,8 +55,6 @@ object frmCadMotivos: TfrmCadMotivos
     Height = 68
     Align = alBottom
     TabOrder = 1
-    ExplicitTop = 216
-    ExplicitWidth = 626
     object BtnSalvar: TBitBtn
       Left = 195
       Top = 9
