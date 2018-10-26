@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/10/25 22:15:51.335,=E:\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 22:16:43.624,E:\Usuario\Desktop\Motivos\uMotivos.dfm=E:\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/25 22:16:43.624,E:\Usuario\Desktop\Motivos\uMotivos.pas=E:\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 22:17:01.279,E:\Usuario\Desktop\Motivos\Motivos.dproj=E:\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/10/25 22:35:12.096,=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 22:35:34.825,E:\Usuario\Desktop\Motivos\uCadMotivos.pas=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 22:35:34.825,E:\Usuario\Desktop\Motivos\uCadMotivos.dfm=E:\Usuario\Desktop\Motivos\Unit1.dfm</Transaction>
+    <Transaction>2018/10/25 22:43:56.644,=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 22:44:13.500,E:\Usuario\Desktop\Motivos\uMotivosDto.pas=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 23:00:04.369,=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 23:00:25.841,E:\Usuario\Desktop\Motivos\uMotivosControler.pas=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 23:02:32.834,=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+    <Transaction>2018/10/25 23:02:36.148,E:\Usuario\Desktop\Motivos\uMotivosInterfaceModel.pas=E:\Usuario\Desktop\Motivos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
